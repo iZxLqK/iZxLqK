@@ -1,1 +1,1 @@
-[![iZxLqK's GitHub stats](https://github-readme-stats.vercel.app/api?username=iZxLqK)](https://github.com/anuraghazra/github-readme-stats)
+[![iZxLqK's GitHub stats](https://github-readme-stats.vercel.app/api?username=iZxLqK&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
